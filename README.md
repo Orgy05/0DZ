@@ -14,8 +14,8 @@ Nakon pokretanja aplikacije ispisalo se: Pero: Hello World  .
 Nakon što sam dodao PeroClassLibrary kao referencu u bin/Debug folderu vidim PeroClassLibrary.dll , asemblij koji sam koristio 
 u programu KonzolnaAplikacija, konkretno metodu PrintHelloWorld() .
 # 5. 
-Nakon što obrišem originalni .dll na disku , aplikacija se uredno pokreče jer sada se referencira na PeroClassLibrary.dll iz bin/debug 
+Nakon što obrišem originalni .dll na disku, aplikacija se uredno pokreče jer sada se referencira na PeroClassLibrary.dll iz bin/debug 
 foldera.
 # 6.
-Builld Proces je zatražio sve potrebne pakete za izvođenje projekta , pa tako i skinuo NodeTime. Packages direktorij je stvorio NodaTime 
+Builld Proces je zatražio sve potrebne pakete za izvođenje projekta, pa tako i skinuo NodeTime. Packages direktorij je stvorio NodaTime 
 direktorij za njegovim fileovima.
